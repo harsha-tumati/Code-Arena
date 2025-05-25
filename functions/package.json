@@ -1,0 +1,16 @@
+{
+  "name": "functions",
+  "engines": {
+    "node": "20"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.1.0",
+    "@mui/material": "^7.1.0",
+    "cors": "^2.8.5",
+    "firebase-admin": "^11.10.0",
+    "firebase-functions": "^4.5.0",
+    "papaparse": "^5.5.3"
+  }
+}
